@@ -1,0 +1,45 @@
+﻿  main.cpp
+C:\Users\Ellalover1128\Desktop\erf\usermode\driver.h(45,31): warning C4129: 'P': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+C:\Users\Ellalover1128\Desktop\erf\usermode\driver.h(372,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Ellalover1128\Desktop\erf\usermode\driver.h(373,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Ellalover1128\Desktop\erf\usermode\driver.h(375,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Ellalover1128\Desktop\erf\usermode\driver.h(376,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Ellalover1128\Desktop\erf\usermode\driver.h(377,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Ellalover1128\Desktop\erf\usermode\driver.h(380,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(24,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(27,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(33,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'T'
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(33,10): warning C4477:         with
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(33,10): warning C4477:         [
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(33,10): warning C4477:             T=uint64_t
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(33,10): warning C4477:         ]
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(36,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'T'
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(36,10): warning C4477:         with
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(36,10): warning C4477:         [
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(36,10): warning C4477:             T=uint64_t
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(36,10): warning C4477:         ]
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(39,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'T'
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(39,10): warning C4477:         with
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(39,10): warning C4477:         [
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(39,10): warning C4477:             T=uint64_t
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(39,10): warning C4477:         ]
+C:\Users\Ellalover1128\Desktop\erf\usermode\main.cpp(45,6): warning C4326: return type of 'main' should be 'int' instead of 'const LONG'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 114 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  usermode.vcxproj -> C:\Users\Ellalover1128\Desktop\erf\x64\Release\usermode.exe
